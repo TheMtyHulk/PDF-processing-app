@@ -14,9 +14,19 @@ To use this application, run the main script or download the EXE file from the g
 
 ## Requirements
 To run the main script in your device you need to install FLET framework in python.
+also pypdf,PyPdf3,pdf2docx library, 
 You can use the below command in your terminal or cmd to install it 
 ```bash
 pip install flet
+```
+```bash
+pip install pypdf
+```
+```bash
+pip install pypdf3
+```
+```bash
+pip install pdf2docx
 ```
 
 ## Authors 
