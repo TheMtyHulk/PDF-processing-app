@@ -184,7 +184,6 @@ def main(page: ft.Page):
         ]
     )
     page.appbar = ft.AppBar(
-        leading=ft.Image(src='Myself 2023edited.png',width=30,height=30,border_radius=100),
         leading_width=50,
         title=ft.Text("Developed by: Pramod J"),
         center_title=False,
