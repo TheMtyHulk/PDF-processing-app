@@ -1,0 +1,4 @@
+flet==0.22.1
+pdf2docx==0.5.8
+pypdf==4.2.0
+PyPDF3==1.0.6
